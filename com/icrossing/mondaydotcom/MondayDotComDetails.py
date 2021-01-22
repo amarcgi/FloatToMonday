@@ -47,16 +47,21 @@ class MondayDotCom:
         #print('boards+++',boards_details)
         if boards_details is not None:
             boards=boards_details['data']['boards']
-        for each_board in boards:
-            mon_items = self.getMondayDotComDashBoardItem(each_board['id'])
-            for each_mon_item in mon_items:
-                for each_column_values in each_mon_item['column_values']:
-                    if each_column_values['id'] == 'person':
-                        splitter = ', '
-                        item_peoples_name = each_column_values['text'].split(splitter) if splitter in each_column_values[
-                            'text'] else [each_column_values['text']]
-                        item_peoples_id = eval(each_column_values['value'])['personsAndTeams']
-                        item_peoples_name_id.update(
-                            {item_peoples_name[i]: item_peoples_id[i] for i in range(len(item_peoples_name))})
-            # print('users++++',item_peoples_name_id)
-        return item_peoples_name_id
+
+            for each_board in boards:
+                print('each_board+++ ',each_board)
+                if each_board['name'].find("Float") != -1:
+                    mon_items = self.getMondayDotComDashBoardItem(each_board['id'])
+                    print('mon_items+++',mon_items)
+                    for each_mon_item in mon_items:
+                        for each_column_values in each_mon_item['column_values']:
+                            print('each_column_values+++',each_column_values)
+                            if each_column_values['id'] == 'person':
+                                splitter = ', '
+                                item_peoples_name = each_column_values['text'].split(splitter) if splitter in each_column_values[
+                                    'text'] else [each_column_values['text']]
+                                item_peoples_id = eval(each_column_values['value'])['personsAndTeams']
+                                item_peoples_name_id.update(
+                                    {item_peoples_name[i]: item_peoples_id[i] for i in range(len(item_peoples_name))})
+                    # print('users++++',item_peoples_name_id)
+            return item_peoples_name_id

@@ -8,7 +8,7 @@ from datetime import timedelta
 from float_api import FloatAPI
 
 # Get access token from environment variable
-FLOAT_ACCESS_TOKEN ='f645cd01a48459d3nrycH3Bc3D0MVqB1hHAUjbYPhtj6i7jG+kchvAbwXQo='
+FLOAT_ACCESS_TOKEN ='3902a174fc4f2eabsj+OAjz/Gy9Ww6WGHWV0xVZFYFmd0VKDNpAqlKk2Ya0='
 
 # Create an API object
 api = FloatAPI(FLOAT_ACCESS_TOKEN, 'my_api_demo', 'me@example.org')
