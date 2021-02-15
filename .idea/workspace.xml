@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a980030f-749c-4b32-beb7-7d9d2dbbacb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FloatToMondayIntegration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FloatToMondayIntegration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/icrossing/mondaydotcom/MondayDotComDetails.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/icrossing/mondaydotcom/MondayDotComDetails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/floatToMonday.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l8Woy5xwyiaQf7fST9RP4XTn4m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\personal\Project\FloatToMondayIntegration" />
+      <recent name="C:\Users\poddara\PycharmProjects\FloatToMondayIntegration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="MondayDotComDetails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FloatToMondayIntegration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/icrossing/mondaydotcom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/icrossing/mondaydotcom/MondayDotComDetails.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FloatToMondayIntegration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MondayDotComDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a980030f-749c-4b32-beb7-7d9d2dbbacb8" name="Default Changelist" comment="" />
+      <created>1606979376206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606979376206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="46" key="#xdebugger.evaluate" timestamp="1609854553533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="396" y="43" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1609415747893" />
+    <state x="423" y="46" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1609854553533" />
+    <state width="1364" height="472" key="DebuggerActiveHint" timestamp="1613373850785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1278" height="440" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1609472038945" />
+    <state width="1364" height="472" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1613373850785" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1613057483284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="110" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611489341993" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613057483284" />
+    <state width="1345" height="222" key="GridCell.Tab.0.bottom" timestamp="1613374684912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1259" height="164" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611494816276" />
+    <state width="1345" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613374684912" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607977672794" />
+    <state width="1345" height="222" key="GridCell.Tab.0.center" timestamp="1613374684912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1259" height="164" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611494816276" />
+    <state width="1345" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613374684912" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607977672794" />
+    <state width="1345" height="222" key="GridCell.Tab.0.left" timestamp="1613374684912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1259" height="164" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611494816276" />
+    <state width="1345" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613374684912" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607977672794" />
+    <state width="1345" height="222" key="GridCell.Tab.0.right" timestamp="1613374684912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1259" height="164" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611494816276" />
+    <state width="1345" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613374684912" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607977672794" />
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1613374684913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609925009991" />
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613374684913" />
+    <state width="1345" height="222" key="GridCell.Tab.1.center" timestamp="1613374684913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1609925009991" />
+    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1613374684913" />
+    <state width="1345" height="222" key="GridCell.Tab.1.left" timestamp="1613374684913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1609925009991" />
+    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1613374684913" />
+    <state width="1345" height="222" key="GridCell.Tab.1.right" timestamp="1613374684913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1609925009991" />
+    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613374684913" />
+    <state x="246" y="17" key="SettingsEditor" timestamp="1613027572445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="246" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613027572445" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607970769702" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1612849712147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1612849712147" />
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1613026777295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1613026777295" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
