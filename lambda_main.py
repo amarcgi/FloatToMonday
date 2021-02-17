@@ -1,5 +1,6 @@
 from com.icrossing.floatdotcom.FloatDotComDetails import FloatDotCom
 from com.icrossing.mondaydotcom.MondayDotComDetails import MondayDotCom
+import time
 def starFloatToMonday(event,context):
     print('Starting application ............')
     mondayDotCom = MondayDotCom()
@@ -105,6 +106,8 @@ def starFloatToMonday(event,context):
                     # mondayDotCom.updateMondayDotcomItemColumn(mondayDotComDashBoard['id'], dashBoardItem['id'], 'date', {'date':task_end_date})
                     mondayDotCom.updateMondayDotcomItemColumn(mondayDotComDashBoard['id'], dashBoardItem['id'],
                                                               item_hours_per_day_id, task_hours_per_day)
+
+                    time.sleep(10)
                     mondayDotCom.updateMondayDotcomItemColumn(mondayDotComDashBoard['id'], dashBoardItem['id'],
                                                               item_integration_status_id, {"label": "UpdatedfromFloat"})
                     print('Updated MondayDotcom item name', dashBoardItem['name'])
